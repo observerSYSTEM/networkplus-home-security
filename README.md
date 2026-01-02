@@ -1,3 +1,29 @@
+# Network+ Secure Home Network Lab
+
+This repository documents a secure home network configuration aligned with
+CompTIA Network+ objectives.
+
+## Environment
+- ISP Router: Virgin Media Hub 5
+- Managed Switch: Linksys LGS3xx
+- Devices:
+  - Desktop PC (wired)
+  - Printer (wired)
+  - 2 Laptops (wireless)
+
+## Scope (Phase 1)
+- Router hardening
+- Wireless security
+- Switch port security
+- VLAN concepts (Layer 2)
+- Professional documentation
+
+## Network+ Objectives Covered
+- Network security
+- Wireless security
+- Switching concepts
+- Device hardening
+- Network documentation
 # Network+ Home Network Security Lab (Virgin Hub 5 + Linksys LGS3xx)
 
 Goal: secure my home network using router hardening + managed switch basics,
