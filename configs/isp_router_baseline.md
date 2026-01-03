@@ -1,3 +1,17 @@
+# Virgin Media Hub 5 — Router Hardening
+
+## Actions Completed
+- Admin password changed
+- Remote management disabled
+- WPS disabled
+- WPA2/WPA3 enabled
+- Guest Wi-Fi isolated (internet-only)
+- UPnP disabled
+- Port forwarding reviewed (none required)
+- Firmware up to date
+
+## Result
+Reduced attack surface and secured wireless access.
 # ISP Router Baseline Hardening
 
 ## Actions Taken

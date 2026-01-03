@@ -1,3 +1,10 @@
+# Validation & Testing
+
+- Desktop internet access: PASS
+- Printer functionality: PASS
+- Unused ports: NO LINK (expected)
+- Port security shutdown on port change: PASS
+- Switch config persists after reboot: PASS
 # Validation Checks
 
 - Desktop has internet access ✅

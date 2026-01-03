@@ -1,3 +1,18 @@
+# Linksys LGS3xx — Switch Hardening
+
+## Ports
+- Desktop-PC: enabled, MAC limit = 1
+- Printer: enabled, MAC limit = 1
+- Unused ports: disabled
+- Uplink-to-Hub5: enabled
+
+## Security
+- Port security enabled (shutdown on violation)
+- Management access restricted to wired desktop
+- Configuration saved to startup
+
+## Result
+Physical access risks mitigated; device swapping prevented.
 # Managed Switch Configuration – Desktop & Printer
 
 ## VLAN Design
